@@ -1,4 +1,4 @@
-# Customer_Churn_Model
+# Customer Churn Model
 
 ## Project Overview
 This project aims to develop a predictive model that classifies customers of a subscription-based service based on their risk of churning—i.e., discontinuing their subscription. By analyzing customer data, the goal is to uncover key factors influencing churn and provide actionable insights to help businesses improve retention. This model will enable businesses to identify at-risk customers early, allowing for targeted retention strategies that can reduce churn and enhance customer satisfaction.
